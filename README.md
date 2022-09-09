@@ -10,3 +10,7 @@ Select a Key
 Wait for activating
 
 And Done!
+
+If you have problem add me on Discord!
+
+🎅NoKiX DEV ©™🎅#0001
