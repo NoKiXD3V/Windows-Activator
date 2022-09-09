@@ -4,6 +4,9 @@
 
 # How to use:
 Run the activator.py
+
 Select a Key
+
 Wait for activating
+
 And Done!
